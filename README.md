@@ -1,0 +1,3 @@
+# Overview
+
+This repository stores the PDF of Gede Primahadi W. Rajeg's slides presentation in *[Diponegoro Summer Course in Corpus Linguistics](https://sites.google.com/live.undip.ac.id/dipscorling/)* (DipSCORLING) in 2026 ([flyer](https://github.com/orgs/complexico/discussions/21)). This is the second time he was invited to present in DipSCORLING after the [DipSCORLING 2024](https://github.com/complexico/dipscorling2024/blob/main/IMG_3727.JPG) ([DOI](https://doi.org/10.5281/zenodo.12817992) for the materials on *[CompLexico's Zenodo](https://zenodo.org/communities/complexico/records?q=&l=list&p=1&s=10&sort=newest)*).
